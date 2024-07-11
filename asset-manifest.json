@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Korsawat/Rider.git/static/css/main.a34cdd6c.css",
+    "main.js": "/Korsawat/Rider.git/static/js/main.05878603.js",
+    "static/js/453.a091f7b8.chunk.js": "/Korsawat/Rider.git/static/js/453.a091f7b8.chunk.js",
+    "index.html": "/Korsawat/Rider.git/index.html",
+    "main.a34cdd6c.css.map": "/Korsawat/Rider.git/static/css/main.a34cdd6c.css.map",
+    "main.05878603.js.map": "/Korsawat/Rider.git/static/js/main.05878603.js.map",
+    "453.a091f7b8.chunk.js.map": "/Korsawat/Rider.git/static/js/453.a091f7b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34cdd6c.css",
+    "static/js/main.05878603.js"
+  ]
+}
