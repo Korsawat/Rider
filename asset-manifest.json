@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rider/static/css/main.a34cdd6c.css",
-    "main.js": "/Rider/static/js/main.d3d9d34f.js",
-    "static/js/453.a091f7b8.chunk.js": "/Rider/static/js/453.a091f7b8.chunk.js",
-    "index.html": "/Rider/index.html",
-    "main.a34cdd6c.css.map": "/Rider/static/css/main.a34cdd6c.css.map",
-    "main.d3d9d34f.js.map": "/Rider/static/js/main.d3d9d34f.js.map",
-    "453.a091f7b8.chunk.js.map": "/Rider/static/js/453.a091f7b8.chunk.js.map"
+    "main.css": "/static/css/main.a34cdd6c.css",
+    "main.js": "/static/js/main.7420402a.js",
+    "static/js/453.a091f7b8.chunk.js": "/static/js/453.a091f7b8.chunk.js",
+    "index.html": "/index.html",
+    "main.a34cdd6c.css.map": "/static/css/main.a34cdd6c.css.map",
+    "main.7420402a.js.map": "/static/js/main.7420402a.js.map",
+    "453.a091f7b8.chunk.js.map": "/static/js/453.a091f7b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a34cdd6c.css",
-    "static/js/main.d3d9d34f.js"
+    "static/js/main.7420402a.js"
   ]
 }
