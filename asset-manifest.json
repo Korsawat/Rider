@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Rider/static/css/main.34e5b84d.chunk.css",
-    "main.js": "/Rider/static/js/main.97bd4f92.chunk.js",
-    "main.js.map": "/Rider/static/js/main.97bd4f92.chunk.js.map",
+    "main.js": "/Rider/static/js/main.a4485ee0.chunk.js",
+    "main.js.map": "/Rider/static/js/main.a4485ee0.chunk.js.map",
     "runtime~main.js": "/Rider/static/js/runtime~main.05dee121.js",
     "runtime~main.js.map": "/Rider/static/js/runtime~main.05dee121.js.map",
-    "static/js/2.ef2a6ff5.chunk.js": "/Rider/static/js/2.ef2a6ff5.chunk.js",
-    "static/js/2.ef2a6ff5.chunk.js.map": "/Rider/static/js/2.ef2a6ff5.chunk.js.map",
+    "static/js/2.4cd250de.chunk.js": "/Rider/static/js/2.4cd250de.chunk.js",
+    "static/js/2.4cd250de.chunk.js.map": "/Rider/static/js/2.4cd250de.chunk.js.map",
     "static/js/3.31c88699.chunk.js": "/Rider/static/js/3.31c88699.chunk.js",
     "static/js/3.31c88699.chunk.js.map": "/Rider/static/js/3.31c88699.chunk.js.map",
     "index.html": "/Rider/index.html",
-    "precache-manifest.0a61a55af6df0c0ab2b3c3512b87aa1e.js": "/Rider/precache-manifest.0a61a55af6df0c0ab2b3c3512b87aa1e.js",
+    "precache-manifest.b3204bc6bfec0f5bb576549b55540fce.js": "/Rider/precache-manifest.b3204bc6bfec0f5bb576549b55540fce.js",
     "service-worker.js": "/Rider/service-worker.js",
     "static/css/main.34e5b84d.chunk.css.map": "/Rider/static/css/main.34e5b84d.chunk.css.map"
   }
